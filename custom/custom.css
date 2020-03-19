@@ -1,0 +1,27 @@
+div.text_cell_render p {
+    text-align: justify;
+    text-justify: inter-word;
+    text-indent: 12.7mm;
+}
+
+#edit_menu{
+	display:none;
+}
+
+#menu-cell-toolbar{
+	display:none;
+}
+
+#cut_copy_paste{
+	display:none;
+}
+
+.rendered_html tr, .rendered_html th, .rendered_html td {
+  text-align: center;
+}
+
+span.flex-spacer {                                                                                        
+    display: flex;
+    flex-direction : row;
+    justify-content: space-around;
+    }
