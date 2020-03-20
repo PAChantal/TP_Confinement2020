@@ -1,4 +1,2 @@
-set -ex
-
 rm README.md
 rm -rf binder
