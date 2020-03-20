@@ -1,4 +1,2 @@
-rm -rf README.md
-rm -rf DS_STORE
-rm -rf .gitattributes
-rm -rf binder
+rm -rf home/jovyan/README.md
+rm -rf home/jovyan/binder
