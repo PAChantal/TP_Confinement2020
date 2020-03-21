@@ -1,2 +1,6 @@
-rm README.md
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak install flathub org.octave.Octave
+rm -rf conda-bld
+rm -rf DS_STORE
+rm -f .\README.md
 rm -rf binder
