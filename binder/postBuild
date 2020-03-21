@@ -1,5 +1,1 @@
-###!/bin/bash
-set -e
-
-rm -rf README.md
 rm -rf binder
