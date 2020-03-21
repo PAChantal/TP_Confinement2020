@@ -1,8 +1,7 @@
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak install flathub org.octave.Octave
-
 rm -rf conda-bld
 rm -rf DS_STORE
 rm -rf .gitattributes
-rm README.md
+rm -rf README.md
 rm -rf binder
