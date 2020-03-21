@@ -1,2 +1,2 @@
-rm home/jovyan/README.md
-rm -rf home/jovyan/binder
+rm README.md
+rm -rf binder
