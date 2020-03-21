@@ -1,1 +1,7 @@
-rm -rf $HOME/binder/
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak install flathub org.octave.Octave
+rm -rf README.md
+rm -rf conda-bld
+rm -rf DS_STORE
+rm -rf .gitattributes
+rm -rf binder
