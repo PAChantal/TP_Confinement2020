@@ -2,5 +2,6 @@ octave
 octave-symbolic
 octave-miscellaneous
 octave-statistics
+octave-signal
 gnuplot
 ghostscript
